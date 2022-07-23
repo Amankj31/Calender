@@ -1,2 +1,2 @@
 # Calender
-This is a complete lifetime calendar.
+This is a complete lifetime Calendar.
